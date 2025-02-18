@@ -1,7 +1,6 @@
 # Leads_Scoring_caseStudy
-Building a ML model for Leads scoring casestudy
-
-Lead Conversion Prediction  
+- Building a ML model for Leads scoring casestudy
+- Lead Conversion Prediction  
 
 # Problem Statement
 - The objective of this project is to analyze lead data and build a predictive model to determine the likelihood of a lead converting into a customer. The dataset contains various attributes such as lead source, website interactions, customer profile, and communication      preferences.  
